@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#content {
+    height: 400px;
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.main{
+	background-color: #12137391;
+	height: 100%;
+}
+.main h1{
+	color: #fff;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 120px;
+}
+.main p{
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 30px;
+}
+.box {
+	background: #FFFFFF;
+	border: 1px solid #eaf0f6;
+	height: 300px;
+	width: 30%;
+	float: left;
+	margin-left: 19%;
+	margin-top: -3.5%;
+	margin-bottom: 5%;
+	align-items: center;
+    text-align: center;
+}
+.box1 {
+	background: #FFFFFF;
+	border: 1px solid #eaf0f6;
+	height: 300px;
+	width: 30%;
+	float: right;
+	margin-right: 19%;
+	margin-top: -3.5%;
+	margin-bottom: 5%;
+	align-items: center;
+    text-align: center;
+}
+.icon i {
+	font-size: 55px;
+	padding-top: 10%;
+	margin-bottom: 10%;
+	color: #4BACCF;
+}
+.box p {
+	color: #33475b;
+	font-family: cursive;
+	margin-bottom: 10%;
+}
+.box1 p {
+	color: #33475b;
+	font-family: cursive;
+	margin-bottom: 15%;
+}
+.number {
+	color: #33475b;
+	font-family: cursive;
+}
+.box3 {
+	background: #FF7553;
+	padding: 3%;
+	margin: 0% 33%;
+	border-radius: 3%;
+	color: #ffeeda;
+}
+.box3:hover {
+	background: #e36647;
+	color: #d5bfc8;
+}
